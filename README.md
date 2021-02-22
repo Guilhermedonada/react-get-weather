@@ -1,4 +1,4 @@
-APp to get the local weather.
+APP to get the local weather.
 
 Create account -> OpenWeather website 
 Get the key.
